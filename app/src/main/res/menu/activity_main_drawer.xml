@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/me"
+            android:icon="@drawable/inbox"
+            android:title="@string/me" />
+        <item
+            android:id="@+id/messages"
+            android:icon="@drawable/outbox"
+            android:title="@string/messages" />
+        <item
+            android:id="@+id/tutorials"
+            android:icon="@drawable/tutor"
+            android:title="@string/tutorials" />
+        <item
+            android:id="@+id/meetings"
+            android:icon="@drawable/meeting"
+            android:title="@string/meetings" />
+        <item
+            android:id="@+id/forums"
+            android:icon="@drawable/forums"
+            android:title="@string/forums" />
+        <item
+            android:id="@+id/news"
+            android:icon="@drawable/updates"
+            android:title="@string/news" />
+        <item
+            android:id="@+id/schools"
+            android:icon="@drawable/school"
+            android:title="@string/schools" />
+        <item
+            android:id="@+id/freelance"
+            android:icon="@drawable/social"
+            android:title="@string/freelance" />
+        <item
+            android:id="@+id/shop"
+            android:icon="@drawable/purchases"
+            android:title="@string/shop" />
+    </group>
+</menu>

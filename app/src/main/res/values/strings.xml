@@ -1,0 +1,52 @@
+<resources>
+
+    <string name="app_name">WhalesSupport</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="me">Me</string>
+    <string name="messages">Messages</string>
+    <string name="tutorials">Tutorials</string>
+    <string name="meetings">Meetings</string>
+    <string name="forums">Forums</string>
+    <string name="news">News</string>
+    <string name="schools">Schools</string>
+    <string name="freelance">Freelance</string>
+    <string name="profile">Profile</string>
+    <string name="shop">Shop Fast</string>
+    <string name="email">Email / Matric</string>
+    <string name="inst">Institution</string>
+    <string name="log_in">L</string>
+    <string name="password">Passw***</string>
+    <string name="title_activity_login">Login</string>
+
+    <string name="demo_title">Demo Title</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_freelance">FreelanceActivity</string>
+    <string name="title_activity_messages">MessagesActivity</string>
+    <string name="title_activity_tutorials">TutorialsActivity</string>
+    <string name="title_activity_meetings_actvity">MeetingsActvity</string>
+    <string name="title_activity_forums">ForumsActivity</string>
+    <string name="title_activity_news">News</string>
+    <string name="title_activity_schools">SchoolsActivity</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_email_matric">Email/Matric</string>
+    <string name="school">Institution</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+</resources>
